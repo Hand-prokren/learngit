@@ -2,7 +2,7 @@ GIT IS A GOOD HEPLER
 IF YOU WANT TO STUDENT PYTHON
 my name is MR zhou
 HELLO
-create a new branch is quick
+create a new branch is quick & simple
 1234556tei
 1234353534534
 werteffs
